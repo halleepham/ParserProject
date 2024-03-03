@@ -10,6 +10,7 @@ COMP-SCI 441 Programming Languages (Spring 2024)
 - The program only produces a list of tokens from the input file and provides an uncompleted/incorrect final verdict
 - All the functions for each nonterminal are written, however, the logic of the failure branches is incorrect
 - The logic of the rest of the function should be correct
+- All of the code was written by myself (no help from LLMs) except for a portion of the tokenizing functions (taken and then modified from the example code on Canvas)
 - I wasn't able to figure out how to properly chain the results of each function to one another correctly before the due date
 - I spent well over 40+ hours (learning Racket, understanding recursive descent parsers, programming), but had to stop this project to prioritize other upcoming projects and assessments
 
