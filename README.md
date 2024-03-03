@@ -12,7 +12,7 @@ COMP-SCI 441 Programming Languages (Spring 2024)
 - The logic of the rest of the function should be correct
 - All of the code was written by myself (no help from LLMs) except for a portion of the tokenizing functions (taken and then modified from the example code on Canvas)
 - I wasn't able to figure out how to properly chain the results of each function to one another correctly before the due date
-- I spent well over 40+ hours (learning Racket, understanding recursive descent parsers, programming), but had to stop this project to prioritize other upcoming projects and assessments
+- I spent well over 40+ hours on this project (learning Racket, understanding recursive descent parsers, programming), but had to stop this project to prioritize other upcoming projects and assessments
 
 ## Summary
 - The program properly handles:
