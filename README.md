@@ -15,9 +15,11 @@ COMP-SCI 441 Programming Languages (Spring 2024)
 - I spent well over 45+ hours on this project (learning Racket, understanding recursive descent parsers, programming), but had to stop this project to prioritize other upcoming projects and exams
 
 ## Summary
-- The program properly handles:
-  - Scanning in all tokens (including parentheses)
-  - Detecting a scanning error (unknown symbol)
+- The program properly:
+  - Scans in all tokens (including parentheses)
+  - Detects a scanning error (unknown symbol)
+  - Uses a functional programming style with no side effects
+  - Uses monadic types (either)
 - The program CANNOT:
   - Produce a correct final verdict
   - Determine which line has a syntax error
